@@ -1,0 +1,112 @@
+[
+
+   {
+      "precio": 56 ,
+      "id": 1,
+      "title": "PETITE",
+      "marca": "Shein",
+      "color": "marron",
+      "talla": "M",
+      "thumbnailUrl": "https://i.pinimg.com/564x/2b/41/85/2b4185d8bb6e24aa57b82143d8fd8a07.jpg" 
+   },
+   {
+      "precio": 68,
+      "id": 2,
+      "title": "NIKE TRACK PANTS",
+      "marca": "Nike",
+      "color": "Azul Marino",
+      "talla": "M",
+      "thumbnailUrl": "https://i.pinimg.com/564x/b9/b7/35/b9b735b9f97b5b647b0806fd093c8b43.jpg" 
+   },
+   {
+      "precio": 70,
+      "id": 3,
+      "title": "STRAIGHT JEAN",
+      "marca": "Pribo",
+      "color": "Azul",
+      "talla": "S",
+      "thumbnailUrl": "https://i.pinimg.com/564x/a2/99/05/a29905b2c826df9de77a098d49437f32.jpg" 
+   },
+   {
+      "precio": 75,
+      "id": 4,
+      "title": "BUTTERFLY PANTS",
+      "marca": "Shein",
+      "color": "Marron Claro",
+      "talla": "S",
+      "thumbnailUrl": "https://i.pinimg.com/564x/67/cc/4c/67cc4c58204140086996a985ce793fef.jpg" 
+   },
+   {
+      "precio": 34,
+      "id": 5,
+      "title": "BUTTERFLY SHORTS",
+      "marca": "Shein",
+      "color": "Azul",
+      "talla": "S",
+      "thumbnailUrl": "https://i.pinimg.com/564x/c0/77/d9/c077d9c52902e89afca6abf66145747e.jpg" 
+   },
+   {
+      "precio": 110,
+      "id": 6,
+      "title": "WAISTED PANTS",
+      "marca": "Olivia Mark",
+      "color": "Negro",
+      "talla": "S",
+      "thumbnailUrl": "https://i.pinimg.com/564x/da/ef/67/daef67c75d0fd90447d2e4ed8ec0c982.jpg" 
+   },
+   {
+      "precio": 100,
+      "id": 7,
+      "title": "PANTALONES CARGO",
+      "marca": "Shein",
+      "color": "Negro",
+      "talla": "M",
+      "thumbnailUrl": "https://i.pinimg.com/564x/39/0a/87/390a87a65aeb93cfa0c73e8a6e4936f1.jpg" 
+   },
+   {
+      "precio": 80,
+      "id": 8,
+      "title": "EMORY CLARK",
+      "marca": "Monchalant Brand",
+      "color": "Negro",
+      "talla": "L",
+      "thumbnailUrl": "https://i.pinimg.com/564x/de/3e/f9/de3ef9c04bda8ecaf5e4533cb081b539.jpg" 
+   },
+   {
+      "precio": 110,
+      "id": 9,
+      "title": "MEN'S BOTTOMS",
+      "marca": "Urban Outfitters",
+      "color": "Azul",
+      "talla": "XL",
+      "thumbnailUrl": "https://i.pinimg.com/564x/00/82/86/008286a462a46bd27c515a2be82436a7.jpg" 
+   },
+   {
+      "precio": 60,
+      "id": 10,
+      "title": "WAIST JOGGER",
+      "marca": "Shein",
+      "color": "Plomo",
+      "talla": "L",
+      "thumbnailUrl": "https://i.pinimg.com/564x/6e/b2/72/6eb272a6cc7768bdb4a58b3e75ca8540.jpg" 
+   },
+   {
+      "precio": 65,
+      "id": 11,
+      "title": "PANTALON DEPORTIVO",
+      "marca": "Shein",
+      "color": "Crema",
+      "talla": "M",
+      "thumbnailUrl": "https://i.pinimg.com/564x/f4/9c/38/f49c38f06535b727acaf93798eee09cf.jpg" 
+   },
+   {
+      "precio": 55,
+      "id": 12,
+      "title": "BLACK PREPPY",
+      "marca": "Shein",
+      "color": "Negro",
+      "talla": "L",
+      "thumbnailUrl": "https://i.pinimg.com/564x/e7/1e/4e/e71e4e2966a26eeb9e7100a271324c74.jpg" 
+   }
+
+]

@@ -1,0 +1,111 @@
+[
+    {
+    "precio": 129,
+    "id": 1,
+    "title": "CONJUNTO PIJAMA",
+    "marca": "AZIZ",
+    "color": "Rosado Pastel",
+    "talla": "M",
+    "thumbnailUrl": "https://home.ripley.com.pe/Attachment/WOP_5/2011310369495/2011310369495_2.jpg" 
+    },
+    {
+    "precio": 129,
+    "id": 2,
+    "title": "CONJUNTO PIJAMA",
+    "marca": "AZIZ",
+    "color": "Celeste",
+    "talla": "S",
+    "thumbnailUrl": "https://home.ripley.com.pe/Attachment/WOP_5/2011310369457/2011310369457_2.jpg"
+    },
+    {
+    "precio": 80,
+    "id": 3,
+    "title": "CONJUNTO PIJAMA CAPRI",
+    "marca": "INDEX",
+    "color": "Rosado Pastel",
+    "talla": "S",
+    "thumbnailUrl": "https://home.ripley.com.pe/Attachment/WOP_5/2011310212760/2011310212760_2.jpg"    
+    },
+    {
+    "precio": 99,
+    "id": 4,
+    "title": "PIJAMA ESTAMPADA ",
+    "marca": "KAYSER ",
+    "color": "Azul",
+    "talla": "L",
+    "thumbnailUrl": "https://home.ripley.com.pe/Attachment/WOP_5/2011314431303/2011314431303_2.jpg"   
+    },
+    {  
+    "precio": 180,
+    "id": 5,
+    "title": "BOYFRIEND CLÁSICO",
+    "marca": "IN BLOOM",
+    "color": "Celeste",
+    "talla": "M",
+    "thumbnailUrl": "https://home.ripley.com.pe/Attachment/WOP_5/2011313766987/2011313766987_2.jpg" 
+    },
+    {
+    "precio": 1420,
+    "id": 6,
+    "title": "PIJAMA DAMA BECKY",
+    "marca": "VELA WHITE",
+    "color": "Perla",
+    "talla": "M",
+    "thumbnailUrl": "https://ripleype.imgix.net/https%3A%2F%2Fdpq25p1ucac70.cloudfront.net%2Fseller-place-files%2Fmrkl-files%2F2176%2FMUJER%2FBECKY%20PERLA%20CP.jpg?w=750&h=555&ch=Width&auto=format&cs=strip&bg=FFFFFF&q=60&trimcolor=FFFFFF&trim=color&fit=fillmax&ixlib=js-1.1.0&s=7f78513ee355656767a4cf3098b0667a"     
+    },
+    {
+    "precio": 200,
+    "id": 7,
+    "title": "PIJAMA 70.919",
+    "marca": "KAYSER",
+    "color": "Azul",
+    "talla": "S",
+    "thumbnailUrl": "https://home.ripley.com.pe/Attachment/WOP_5/2011321795382/2011321795382_2.jpg"     
+    },
+    {
+    "precio": 210,
+    "id": 8,
+    "title": "VELVET VICTORIA",
+    "marca": "KOKETA",
+    "color": "Negro",
+    "talla": "L",
+    "thumbnailUrl": "https://ripleype.imgix.net/https%3A%2F%2Fdpq25p1ucac70.cloudfront.net%2Fseller-place-files%2Fmrkl-files%2F1778%2FMUJER%2FSLEEPWEAR%2FPIJAMAS%20EDITADAS%2F7750312127898.jpg?w=750&h=555&ch=Width&auto=format&cs=strip&bg=FFFFFF&q=60&trimcolor=FFFFFF&trim=color&fit=fillmax&ixlib=js-1.1.0&s=06c5e85ff09eac0e9ed760d740d80fdf"     
+    },
+    {
+    "precio": 180,
+    "id": 9,
+    "title": "PIJAMA DESI ANIMAL PRINT",
+    "marca": "VELA WHITE",
+    "color": "Nude",
+    "talla": "M",
+    "thumbnailUrl": "https://ripleype.imgix.net/https%3A%2F%2Fdpq25p1ucac70.cloudfront.net%2Fseller-place-files%2Fmrkl-files%2F2176%2FMUJER%2FDESI%20A%20PRINT.jpg?w=750&h=555&ch=Width&auto=format&cs=strip&bg=FFFFFF&q=60&trimcolor=FFFFFF&trim=color&fit=fillmax&ixlib=js-1.1.0&s=3ee777e46694c3debd4d657dd286a5e3"     
+    },
+{
+    "precio": 109,
+    "id": 10,
+    "title": "CAMISÓN DE PIJAMA-ELIAINE",
+    "marca": "AZIZ",
+    "color": "Rosado",
+    "talla":"M",
+    "thumbnailUrl": "https://home.ripley.com.pe/Attachment/WOP_5/2011310373430/2011310373430_2.jpg"     
+    },
+    {
+    "precio": 129,
+    "id": 11,
+    "title": "ENTERIZO EMI",
+    "marca": "KOKETA",
+    "color": "Verde Agua",
+    "talla": "S",
+    "thumbnailUrl": "https://ripleype.imgix.net/https%3A%2F%2Fdpq25p1ucac70.cloudfront.net%2Fseller-place-files%2Fmrkl-files%2F1778%2FMUJER%2FSLEEPWEAR%2FPIJAMAS%20EDITADAS%2F7750312122336.jpg?w=750&h=555&ch=Width&auto=format&cs=strip&bg=FFFFFF&q=60&trimcolor=FFFFFF&trim=color&fit=fillmax&ixlib=js-1.1.0&s=18db0e621277343ecd51bac499ab0905"     
+    },
+    {
+    "precio": 250,
+    "id": 1,
+    "title": "POLERA PIJAMA 6511",
+    "marca": "KAYSER ",
+    "color": "Rosado",
+    "talla": "M",
+    "thumbnailUrl": "https://home.ripley.com.pe/Attachment/WOP_5/2011319033908/2011319033908_2.jpg"     
+    }
+
+]
