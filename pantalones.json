@@ -1,4 +1,4 @@
-db.getCollection("pantalones").insertMany([
+[
 
     {
         "precio": 56 ,
@@ -107,6 +107,6 @@ db.getCollection("pantalones").insertMany([
         "color": "Negro",
         "talla": "L",
         "thumbnailUrl": "https://i.pinimg.com/564x/e7/1e/4e/e71e4e2966a26eeb9e7100a271324c74.jpg" 
-     },
+     }
 
-])
+]

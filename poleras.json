@@ -1,6 +1,4 @@
-use("tienda")
-
-db.getCollection("poleras").insertMany([
+[
 
     {
         "precio": 100,
@@ -109,6 +107,6 @@ db.getCollection("poleras").insertMany([
         "color": "Azul",
         "talla": "L",
         "thumbnailUrl": "https://i.pinimg.com/564x/cb/ed/b2/cbedb2cf8f125d1d6f630561f0a2fceb.jpg" 
-     },
+     }
 
-])
+]
