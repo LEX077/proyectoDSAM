@@ -55,58 +55,58 @@
       "thumbnailUrl": "https://static1.funidelia.com/40597-f6_big2/disfraz-de-spidergirl-para-mujer.jpg" 
    },
    {
-      "precio": 100,
+      "precio": 169,
       "id": 7,
-      "title": "PANTALONES CARGO",
-      "tema": "Shein",
-      "genero": "Negro",
+      "title": "DIZFRAZ DE PIRATA",
+      "tema": "pirata del caribe",
+      "genero": "Hombre",
       "talla": "M",
-      "thumbnailUrl": "https://i.pinimg.com/564x/39/0a/87/390a87a65aeb93cfa0c73e8a6e4936f1.jpg" 
+      "thumbnailUrl": "https://static1.funidelia.com/497092-f6_big2/disfraz-de-pirata-para-hombre-coleccion-caribe-.jpg" 
    },
    {
-      "precio": 80,
+      "precio": 99,
       "id": 8,
-      "title": "EMORY CLARK",
-      "tema": "Monchalant Brand",
-      "genero": "Negro",
-      "talla": "L",
-      "thumbnailUrl": "https://i.pinimg.com/564x/de/3e/f9/de3ef9c04bda8ecaf5e4533cb081b539.jpg" 
+      "title": "DISFRAZ DE CAPERUCITA",
+      "tema": "caperucita roja",
+      "genero": "Mujer",
+      "talla": "S",
+      "thumbnailUrl": "https://static1.funidelia.com/248313-f6_big2/disfraz-de-caperucita-roja-para-mujer.jpg" 
    },
    {
       "precio": 110,
       "id": 9,
-      "title": "MEN'S BOTTOMS",
-      "tema": "Urban Outfitters",
-      "genero": "Azul",
-      "talla": "XL",
-      "thumbnailUrl": "https://i.pinimg.com/564x/00/82/86/008286a462a46bd27c515a2be82436a7.jpg" 
+      "title": "DISFRAZ DE HOMBRE LOBO",
+      "tema": "terror",
+      "genero": "Hombre",
+      "talla": "L",
+      "thumbnailUrl": "https://static1.funidelia.com/523566-f6_big2/disfraz-de-hombre-lobo-para-hombre.jpg" 
    },
    {
-      "precio": 60,
+      "precio": 119,
       "id": 10,
-      "title": "WAIST JOGGER",
-      "tema": "Shein",
-      "genero": "Plomo",
-      "talla": "L",
-      "thumbnailUrl": "https://i.pinimg.com/564x/6e/b2/72/6eb272a6cc7768bdb4a58b3e75ca8540.jpg" 
+      "title": "DIZFRAZ DE BRUJA",
+      "tema": "terror",
+      "genero": "Mujer",
+      "talla": "S",
+      "thumbnailUrl": "https://static1.funidelia.com/518504-f6_big2/disfraz-de-bruja-clasica-para-mujer.jpg" 
    },
    {
-      "precio": 65,
+      "precio": 119,
       "id": 11,
-      "title": "PANTALON DEPORTIVO",
-      "tema": "Shein",
-      "genero": "Crema",
-      "talla": "M",
-      "thumbnailUrl": "https://i.pinimg.com/564x/f4/9c/38/f49c38f06535b727acaf93798eee09cf.jpg" 
+      "title": "DISFRAZ DE VIKINGO",
+      "tema": "medieval",
+      "genero": "Hombre",
+      "talla": "L",
+      "thumbnailUrl": "https://static1.funidelia.com/523307-f6_big2/disfraz-de-vikingo.jpg" 
    },
    {
-      "precio": 55,
+      "precio": 30,
       "id": 12,
-      "title": "BLACK PREPPY",
-      "tema": "Shein",
-      "genero": "Negro",
-      "talla": "L",
-      "thumbnailUrl": "https://i.pinimg.com/564x/e7/1e/4e/e71e4e2966a26eeb9e7100a271324c74.jpg" 
+      "title": "DIZFRAZ DE HAWAIANA",
+      "tema": "extrangero",
+      "genero": "Mujer",
+      "talla": "S",
+      "thumbnailUrl": "https://static1.funidelia.com/529523-f6_big2/set-de-hawai-.jpg" 
    }
 
 ]
